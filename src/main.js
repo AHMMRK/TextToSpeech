@@ -51,7 +51,7 @@ const speak = () => {
     const speakText = new SpeechSynthesisUtterance(input.value);
 
     //Set background wave
-    body.style.background = '#141414 url(../public/wave.gif)';
+    body.style.background = "#141414 url('../public/wave.gif')";
     body.style.backgroundSize = '100% 100%';
     body.style.backgroundRepeat = 'repeat-x';
 
