@@ -1,4 +1,4 @@
-📝 Bookmarker App
+📝 Text To Speech App
 
 This app has a text to speech technology and you can type a text in input box and then choose a voice then play the voice.
 
